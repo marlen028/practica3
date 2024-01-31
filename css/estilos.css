@@ -1,0 +1,28 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subrayado*/
+    color: rgb(105, 83, 10); /*da color al texto*/
+    font-size: 20px; /*tamaño del texto*/
+    font-weight: bold; /*pone en negritas el texto*/
+}
+
+h2{
+    color: rgb(161, 118, 9); /*da color al tecto*/
+}
+
+.p{
+    font-size: 18px; /*tamañp del texto*/
+}
+
+h3{
+    color: peru; /*da color al texto*/
+    text-align: center; /*centra el texto*/
+}
+
+.contenedor2 p{
+    color: chocolate; /*da color al texto*/
+}
+
+.contenedor2 a{
+    color: orchid; /*eliminar subrayado*/
+    text-decoration: none; /*elimina subrayado de las ligas*/
+}
